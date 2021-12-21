@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: fb77315ee250e5a4faaaf4dd1fce48e3
+  - enabled: 1
+    path: Assets/Scenes/ScanMarker.unity
+    guid: cc7dd0cdd328a4a448594121f60271d9
+  m_configObjects: {}

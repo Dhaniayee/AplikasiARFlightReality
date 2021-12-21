@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sayap" size="100.000000 100.000000" />
+    <ImageTarget name="landingGear" size="100.000000 100.000000" />
+    <ImageTarget name="kabin" size="100.000000 100.000000" />
+    <ImageTarget name="kokpit" size="100.000000 100.000000" />
+    <ImageTarget name="lion_air" size="100.000000 100.000000" />
+    <ImageTarget name="garuda" size="100.000000 100.000000" />
+    <ImageTarget name="f-16" size="100.000000 100.000000" />
+    <ImageTarget name="citilink" size="100.000000 100.000000" />
+    <ImageTarget name="bizsky" size="100.000000 100.000000" />
+    <ImageTarget name="kepresidenan" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
