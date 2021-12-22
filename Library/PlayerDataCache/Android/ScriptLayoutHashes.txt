@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/----ENCLOSURE----/Kuliah Aye/#SMT 5/AR VR/ARVR APK/FlightExpress 3.apk
+D:/----ENCLOSURE----/Kuliah Aye/#SMT 5/AR VR/ARVR APK/FlightExpress.apk
 SceneListBegin?
 Assets/Scenes/StartMenu.unity
 Assets/Scenes/ScanMarker.unity
